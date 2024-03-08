@@ -1,4 +1,4 @@
 # SGP-pytorch
-The pytorch implementation of the paper "Self-Gated Prompting Large Models for 3D Medical Image Segmentation"
+The pytorch implementation of the paper "SGP-SAM: Self-Gated Prompting SAM for 3D Medical Image Lesion"
 
-The code will be released before March 7th.
+The trainable code will soon be open-sourced.
